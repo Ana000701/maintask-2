@@ -105,7 +105,7 @@ ol {
 
 /* header */
 .w-278 {
-  width: 27.85rem;
+  max-width: 27.85rem;
 }
 
 .main-nav-link:link,
@@ -163,7 +163,7 @@ ol {
 }
 
 .arrow_outward {
-  width: 2.4rem;
+  max-width: 2.4rem;
   height: 2.4rem;
 }
 
@@ -174,10 +174,6 @@ ol {
 
 .intro-text-box {
   max-width: 52.6rem;
-}
-
-.intro-image {
-  max-width: 74.6rem;
 }
 
 .intro-title {
@@ -194,6 +190,19 @@ ol {
 
 .spark-sm-box {
   max-width: 12.8rem;
+}
+
+.intro-image-box {
+  max-width: 74.6rem;
+}
+
+.intro-image-1,
+.intro-image-2 {
+  max-width: 19.6rem;
+}
+
+.intro-image-3 {
+  max-width: 30.6rem;
 }
 
 /* About me */
@@ -217,7 +226,7 @@ ol {
 .role-idx,
 .role-title,
 .role-job {
-  width: 27.4rem;
+  max-width: 27.4rem;
 }
 
 .role-idx,
@@ -262,20 +271,26 @@ ol {
 }
 
 .project-title {
-  width: 74.6rem;
+  max-width: 74.6rem;
   font-size: 6.4rem;
   line-height: 9.6rem;
   margin-left: auto;
 }
 
 .computer-image {
-  width: 41.6rem;
-  height: 53rem;
+  max-width: 41.6rem;
 }
 
 .code-image {
-  width: 19.6rem;
-  height: 19.6rem;
+  max-width: 19.6rem;
+}
+
+.project-intro-box {
+  width: 85.6rem;
+}
+
+.project-intro-text-btn {
+  max-width: 63.6rem;
 }
 
 .project-intro-text {
@@ -287,16 +302,6 @@ ol {
 .btn-black {
   background-color: #000;
   color: #fff;
-}
-
-.phone-image {
-  width: 30.6rem;
-  height: 30.6rem;
-}
-
-.computer-image-2 {
-  width: 52.6rem;
-  height: 30.6rem;
 }
 
 /* footer */
