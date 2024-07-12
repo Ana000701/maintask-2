@@ -271,7 +271,7 @@ ol {
 }
 
 .project-title {
-  max-width: 74.6rem;
+  width: 74.6rem;
   font-size: 6.4rem;
   line-height: 9.6rem;
   margin-left: auto;
