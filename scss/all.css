@@ -103,6 +103,14 @@ ol {
   margin-bottom: 3.6rem;
 }
 
+.mb-76 {
+  margin-bottom: 7.6rem;
+}
+
+.ml-auto {
+  margin-left: auto;
+}
+
 /* header */
 .w-278 {
   max-width: 27.85rem;
@@ -151,7 +159,6 @@ ol {
   border-radius: 3.2rem;
   padding: 1.2rem 2.4rem;
   cursor: pointer;
-  margin-left: auto;
 }
 
 .btn:active {
